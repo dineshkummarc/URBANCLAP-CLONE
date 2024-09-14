@@ -531,6 +531,7 @@ $config['proxy_ips'] = '';
 | for base controllers and some third-party libraries.
 |
 */
+
 function __autoload($class)
 {
     if (strpos($class, 'CI_') !== 0)
@@ -538,3 +539,12 @@ function __autoload($class)
         @include_once(APPPATH . 'core/' . $class . '.php');
     }
 }
+/*
+function spl_autoload_register($class)
+{
+    if (strpos($class, 'CI_') !== 0)
+    {
+        @include_once(APPPATH . 'core/' . $class . '.php');
+    }
+}
+*/

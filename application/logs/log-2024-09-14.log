@@ -48,3 +48,4 @@ ERROR - 2024-09-14 21:53:35 --> Severity: 8192 --> __autoload() is deprecated, u
 ERROR - 2024-09-14 21:53:35 --> Severity: Compile Error --> Cannot redeclare __autoload() (previously declared in C:\xampp\htdocs\URBANCLAP-CLONE\application\config\config.php:534) C:\xampp\htdocs\URBANCLAP-CLONE\application\config\config.php 540
 ERROR - 2024-09-14 21:53:49 --> Severity: 8192 --> __autoload() is deprecated, use spl_autoload_register() instead C:\xampp\htdocs\URBANCLAP-CLONE\application\config\config.php 534
 ERROR - 2024-09-14 21:53:49 --> Severity: Compile Error --> Cannot redeclare __autoload() (previously declared in C:\xampp\htdocs\URBANCLAP-CLONE\application\config\config.php:534) C:\xampp\htdocs\URBANCLAP-CLONE\application\config\config.php 540
+ERROR - 2024-09-14 22:03:12 --> Severity: Error --> Class 'Public_Controller' not found C:\xampp\htdocs\URBANCLAP-CLONE\application\controllers\Welcome.php 3

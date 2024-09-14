@@ -1,0 +1,4 @@
+ERROR - 2024-09-14 21:49:02 --> Severity: 8192 --> __autoload() is deprecated, use spl_autoload_register() instead C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php 534
+ERROR - 2024-09-14 21:49:02 --> Severity: Compile Error --> Cannot redeclare __autoload() (previously declared in C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php:534) C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php 540
+ERROR - 2024-09-14 21:49:04 --> Severity: 8192 --> __autoload() is deprecated, use spl_autoload_register() instead C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php 534
+ERROR - 2024-09-14 21:49:04 --> Severity: Compile Error --> Cannot redeclare __autoload() (previously declared in C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php:534) C:\xampp\htdocs\OtherAppsToCheck\URBANCLAP-CLONE\application\config\config.php 540

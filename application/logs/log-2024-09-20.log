@@ -1,0 +1,19 @@
+ERROR - 2024-09-20 15:40:32 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) C:\wamp64\www\URBANCLAP-CLONE\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2024-09-20 15:40:32 --> Unable to connect to the database
+ERROR - 2024-09-20 15:42:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'urbanclap-db' C:\wamp64\www\URBANCLAP-CLONE\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2024-09-20 15:42:09 --> Unable to connect to the database
+ERROR - 2024-09-20 15:47:36 --> Query error: Table 'urbanclap-db.settings' doesn't exist - Invalid query: 
+            SELECT *
+            FROM settings
+            ORDER BY sort_order ASC
+        
+ERROR - 2024-09-20 15:47:55 --> Query error: Table 'urbanclap-db.settings' doesn't exist - Invalid query: 
+            SELECT *
+            FROM settings
+            ORDER BY sort_order ASC
+        
+ERROR - 2024-09-20 15:47:58 --> Query error: Table 'urbanclap-db.settings' doesn't exist - Invalid query: 
+            SELECT *
+            FROM settings
+            ORDER BY sort_order ASC
+        
